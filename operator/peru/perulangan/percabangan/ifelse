@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int nilai_mahasiswa;
+    if(  90>100)
+    {
+        cout<<" nilai mahasiswa A";
+    } 
+    else if(  80>90)
+    {
+        cout<<" nilai mahasiswa B";
+    }
+    else if( 70>80)
+    {
+        cout<<" nilai mahasiswa C";
+    }
+    else if( 60>80)
+    {
+        cout<<" nilai mahasiswa D";
+    }
+    else( 50>60)
+    {
+        cout<<" nilai mahasiswa F";
+    }
+
+}
